@@ -172,11 +172,12 @@ const clicker2 = ()=>{
 <div className="lg:flex lg:items-center lg:justify-between align-middle flex-column justify-center sm:flex">
   <div className="flex justify-center md:w-30 px-10">
        
-        <Image
+        <img
        className="object-contain md:ml-5 w-3 cursor-pointer"
          src={'/../public/img/image3.png'}
          width={190}
          height={80}
+         alt="logo"
        />
        
   </div>
@@ -268,11 +269,12 @@ const clicker2 = ()=>{
 
                <div className=" w-full h-6 flex justify-center items-center" >
 
-               <Image
+               <img
        className="object-contain md:ml-5  mx-auto"
          src={'/../public/img/Ellipse37.png'}
          width={100}
          height={100}
+         alt="footer"
        />
                    
                </div>
@@ -1163,6 +1165,7 @@ const clicker2 = ()=>{
          src={'/../public/img/image3.png'}
          width={190}
          height={80}
+         alt="footer-holder"
        />
        
 </div>
