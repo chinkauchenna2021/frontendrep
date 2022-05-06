@@ -172,9 +172,9 @@ const clicker2 = ()=>{
 <div className="lg:flex lg:items-center lg:justify-between align-middle flex-column justify-center sm:flex">
   <div className="flex justify-center md:w-30 px-10">
        
-        <img
+        <Image
        className="object-contain md:ml-5 w-3 cursor-pointer"
-         src={'./img/image3.png'}
+         src={'./../img/image3.png'}
          width={190}
          height={80}
          alt="logo"
