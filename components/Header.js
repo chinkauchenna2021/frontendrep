@@ -1162,7 +1162,7 @@ const clicker2 = ()=>{
 <div className="">
 <Image
        className="object-contain md:ml-5 w-3"
-         src={'./img/image3.png'}
+         src={'../img/image3.png'}
          width={190}
          height={80}
          alt="footer-holder"
