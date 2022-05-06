@@ -269,12 +269,12 @@ const clicker2 = ()=>{
 
                <div className=" w-full h-6 flex justify-center items-center" >
 
-               <img
+               <Image
        className="object-contain md:ml-5  mx-auto"
          src={'./img/Ellipse37.png'}
          width={100}
          height={100}
-         alt="footer"
+         alt="body"
        />
                    
                </div>
