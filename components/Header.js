@@ -174,7 +174,7 @@ const clicker2 = ()=>{
        
         <Image
        className="object-contain md:ml-5 w-3 cursor-pointer"
-         src={'./../img/image3.png'}
+         src={'./public/img/image3.png'}
          width={190}
          height={80}
          alt="logo"
