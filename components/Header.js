@@ -174,7 +174,7 @@ const clicker2 = ()=>{
        
         <img
        className="object-contain md:ml-5 w-3 cursor-pointer"
-         src={'../img/image3.png'}
+         src={'./img/image3.png'}
          width={190}
          height={80}
          alt="logo"
@@ -271,7 +271,7 @@ const clicker2 = ()=>{
 
                <img
        className="object-contain md:ml-5  mx-auto"
-         src={'../img/Ellipse37.png'}
+         src={'./img/Ellipse37.png'}
          width={100}
          height={100}
          alt="footer"
@@ -1162,7 +1162,7 @@ const clicker2 = ()=>{
 <div className="">
 <Image
        className="object-contain md:ml-5 w-3"
-         src={'../img/image3.png'}
+         src={'./img/image3.png'}
          width={190}
          height={80}
          alt="footer-holder"
