@@ -172,13 +172,13 @@ const clicker2 = ()=>{
 <div className="lg:flex lg:items-center lg:justify-between align-middle flex-column justify-center sm:flex">
   <div className="flex justify-center md:w-30 px-10">
        
-        <Image
-       className="object-contain md:ml-5 w-3 cursor-pointer"
-         src="../img/image3.png"
-         width={140}
-         height={80}
-         alt="logo"
-       />
+//         <Image
+//        className="object-contain md:ml-5 w-3 cursor-pointer"
+//          src="../img/image3.png"
+//          width={140}
+//          height={80}
+//          alt="logo"
+//        />
        
   </div>
 
